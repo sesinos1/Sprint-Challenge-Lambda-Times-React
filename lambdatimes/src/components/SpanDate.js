@@ -5,5 +5,7 @@ const SpanDate= styled.span`
   font-size: 11px;
   font-weight: bold;
   letter-spacing: 1px;
+  padding-bottom: 37px;
+  margin-left: 25px;
 `;
 export default SpanDate 
